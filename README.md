@@ -1,7 +1,8 @@
 # mxnet-CoordConv
 
 MXNET symbolic implementation of - 
-# 'An intriguing failing of convolutional neural networks and the CoordConv solution'
+'An intriguing failing of convolutional neural networks and the CoordConv solution'
+(arxiv.org/abs/1807.03247)
 
 usage:
 1. download the .py file
